@@ -1,0 +1,4 @@
+#Tue Jan 14 08:21:57 JST 2020
+base.0=/Users/maia01/.ghq/github.com/maasa1221/-na/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
